@@ -1,0 +1,38 @@
+---
+import MainHead from '../components/MainHead.astro';
+import Footer from '../components/Footer/index.jsx';
+import Nav from '../components/Nav/index.jsx';
+import BlogPreview from '../components/BlogPreview/index.jsx';
+
+const blog = (await Astro.glob('./blog/**/*.md'))
+	.filter(({ frontmatter }) => !!frontmatter.publishDate)
+	.sort(
+		(a, b) =>
+			new Date(b.frontmatter.publishDate).valueOf() - new Date(a.frontmatter.publishDate).valueOf()
+	);
+---
+
+<html lang="en">
+	<head>
+		<MainHead
+			title="All Posts | Cyromaven"
+			description="Read Cyromaven's most recent blog posts"
+		/>
+		<style lang="scss">
+			.grid {
+				display: grid;
+				grid-gap: 3rem;
+			}
+		</style>
+	</head>
+	<body>
+		<Nav />
+		<div class="wrapper">
+			<h1 class="title mt4 mb4">All Posts</h1>
+			<div class="grid">
+				{blog.map((post) => <BlogPreview post={post} />)}
+			</div>
+		</div>
+		<Footer />
+	</body>
+</html>

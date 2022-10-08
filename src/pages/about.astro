@@ -1,0 +1,59 @@
+---
+import MainHead from '../components/MainHead.astro';
+import Footer from '../components/Footer/index.jsx';
+import Nav from '../components/Nav/index.jsx';
+---
+
+<html lang="en">
+	<head>
+		<MainHead title="About | Cyromaven" description="About Cyromaven TLDR;" />
+		<style lang="scss">
+			.heroImg {
+				max-height: 24rem;
+				object-fit: cover;
+				overflow: hidden;
+
+				img {
+					width: 100%;
+				}
+			}
+
+			.bio {
+				font-size: var(--f-u1);
+				line-height: 2;
+			}
+		</style>
+	</head>
+	<body>
+		<Nav />
+		<div class="wrapper">
+			<h1>About</h1>
+			<div class="heroImg">
+				<img
+					width="1400"
+					height="350"
+					src="https://res.cloudinary.com/davidconoh/image/upload/v1661405369/davidconoh_vercel_app/code-in-pulp-sheet.jpg"
+				/>
+			</div>
+			<div class="bio wrapper wrapper__readable mt8">
+				<p>
+					Wake me if you’re out there.
+				</p>
+				<p>
+					<strong>It’s been a while now I stopped fiddling with my computer. I’m learning to build modern applications and services using insights and a host of other amazing resources, including HTML, CSS, JavaScript, .NET… Yeah, you know the drill. I’m also trying out my hands collaborating with technologists and other professionals, to build rock solid applications using </strong>
+					<em>Jamstack, Linux, Anaconda, </em><strong>and</strong> <em>Firefox</em>.
+				</p>
+				<p>
+					Interested in knowing how I work? Check out this post: <a href="./blog/99-ultracogence/" target="_blank" rel="nofollow"><strong>#Ultracogence</strong></a>.
+				</p>
+				<p>
+					Let me know what you think.
+				</p>
+				<p>
+					Say <a href="https://medium.com/@davidconoh" target="_blank" rel="nofollow"><strong>hello</strong></a>.
+				</p>
+			</div>
+		</div>
+		<Footer />
+	</body>
+</html>
