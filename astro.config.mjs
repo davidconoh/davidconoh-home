@@ -11,5 +11,5 @@ export default defineConfig({
   integrations: [preact(), svelte()],
   // Resolves to the "./foo/public" directory in your current working directory
   publicDir: 'static',
-  outDir: 'public'
+  outDir: 'dist'
 });
