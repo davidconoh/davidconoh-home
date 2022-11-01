@@ -3,7 +3,7 @@ layout: ../../layouts/blog.astro
 title: Strategy101 - A word on Diversity
 client: Self
 publishDate: 2022-08-25 14:15:41
-img: https://res.cloudinary.com/davidconoh/image/upload/v1661290183/davidconoh_vercel_app/diversity-trend.jpg
+img: https://res.cloudinary.com/davidconoh/image/upload/v1661290183/davidconoh_blog_renders/diversity-trend.jpg
 description: |
   Ultracogence and still trending.
 tags:
@@ -35,6 +35,8 @@ The differences in the tools and services needed to achieve this is the reason w
 * Best-in-class marketing by delivering quality to multiple divisions at once.
 
 * Multiple support programs for best-in-class users and developers across other time zones.
+
+Let me know what you think in the comments.
 
 **`Bringing you engagements, digital technology enveloped in new brands and ideas for your exposure through `*Science*` and` *Artificial Intelligence*`. The use of `*AI*` as a tool to modify culture and inexperience call for the need to divide true inspiration from the others and quality data from substandard ones to bring about better insights, reliable actions, and improved work benefits.`**
 

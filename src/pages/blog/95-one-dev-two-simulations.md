@@ -3,7 +3,7 @@ layout: ../../layouts/blog.astro
 title: One Dev. — Two Simulations
 client: Self
 publishDate: 2022-10-01 01:20:13
-img: https://res.cloudinary.com/davidconoh/image/upload/v1664554851/one_dev_two_killpoints.png
+img: https://res.cloudinary.com/davidconoh/image/upload/v1664554851/davidconoh_blog_renders/one_dev_two_simulations.png
 description: |
   Two cities, one event — a billboard.
 tags:
@@ -39,6 +39,8 @@ Don't worry, I skipped all the important parts, like the time it took you to set
 `— Oh! What, you thought you had a new rap lord?`
 
 `Checkmate 2` 👾👾
+
+Let me know what you think in the comments.
 
 **`Bringing you engagements, digital technology enveloped in new brands and ideas for your exposure through `*Science*` and` *Artificial Intelligence*`. The use of `*AI*` as a tool to modify culture and inexperience call for the need to divide true inspiration from the others and quality data from substandard ones to bring about better insights, reliable actions, and improved work benefits.`**
 

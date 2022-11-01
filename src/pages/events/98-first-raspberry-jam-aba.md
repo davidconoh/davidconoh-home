@@ -3,7 +3,7 @@ layout: ../../layouts/events.astro
 title: Raspberry Jam Aba, 2020
 client: Self
 publishDate: 2020-03-14 19:10:15
-img: https://res.cloudinary.com/davidconoh/image/upload/v1661325551/davidconoh_vercel_app/first_raspberry_jam_aba.jpg
+img: https://res.cloudinary.com/davidconoh/image/upload/v1661325551/davidconoh_blog_renders/first_raspberry_jam_aba.jpg
 description: |
   At the first ever Raspberry Jam meetup in Aba, getting lit.
 tags:

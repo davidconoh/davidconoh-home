@@ -3,7 +3,7 @@ layout: ../../layouts/events.astro
 title: DevFest South-South Nigeria - 2018
 client: Self
 publishDate: 2018-11-14 19:15:10
-img: https://res.cloudinary.com/davidconoh/image/upload/v1661335011/davidconoh_vercel_app/devfest_uyo_2018.jpg
+img: https://res.cloudinary.com/davidconoh/image/upload/v1661335011/davidconoh_blog_renders/devfest_uyo_2018.jpg
 description: |
   A swell day at the DevFest South-South Nigeria - 2018, held in Uyo.
 tags:

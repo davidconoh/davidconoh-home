@@ -3,7 +3,7 @@ layout: ../../layouts/blog.astro
 title: The three Rs of waste management — Reduce, Reuse, Recycle
 client: Self
 publishDate: 2019-03-02 15:22:43
-img: https://res.cloudinary.com/davidconoh/image/upload/v1661290183/davidconoh_vercel_app/reduce-reuse-recycle.jpg
+img: https://res.cloudinary.com/davidconoh/image/upload/v1661290183/davidconoh_blog_renders/reduce-reuse-recycle.jpg
 description: |
   Waste management — reduce, reuse, recycle.
 tags:
@@ -29,6 +29,8 @@ Rather than throwing out items like clothing or food jars, consumers can find ne
 
 ## Why Is It Important?
 `Manufacturers extracting natural resources, such as bauxite or aluminum ore, and refining them to make products use energy in the process. Often, burning fossil fuels generates this energy. When people throw those items away, they send them to landfills where they may take centuries or longer to break down completely.` **Reducing**, **reusing** `and` **recycling** `help reduce humanity’s environmental footprint, carbon dioxide emissions, and energy use and limits the amount of landfill space people create. These savings can be substantial; recycling aluminum uses only 5 percent of the energy required to refine aluminum (see` **References 5**`). That’s why the three` **R**`s are the basic tenets of modern` **environmentalism**.
+
+Let me know what you think in the comments.
 
 **`Bringing you engagements, digital technology enveloped in new brands and ideas for your exposure through `*Science*` and` *Artificial Intelligence*`. The use of `*AI*` as a tool to modify culture and inexperience call for the need to divide true inspiration from the others and quality data from substandard ones to bring about better insights, reliable actions, and improved work benefits.`**
 

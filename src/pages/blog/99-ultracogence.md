@@ -3,7 +3,7 @@ layout: ../../layouts/blog.astro
 title: Ultracogence
 client: Self
 publishDate: 2020-03-03 10:10:01
-img: https://res.cloudinary.com/davidconoh/image/upload/v1661290185/davidconoh_vercel_app/ultracogence.png
+img: https://res.cloudinary.com/davidconoh/image/upload/v1661290185/davidconoh_blog_renders/ultracogence.png
 description: |
   The experience of a life time.
 tags:
@@ -30,3 +30,5 @@ It is in my best interest that, by being part of tweaking the present-day learni
 **Ultracogence**, hereby, envelops this clearly defined approach towards improving the traditional, inspirational artistry in our local maker community with due respect to our positively diverse, yet inclusive cultural heritage just by keeping our activities simplified. In essence, we hope to be part of building and celebrating next-generation digital innovations through byte-sized, occasional learning experiences crafted to aid the scale-up and exit of local enterprises and startups, thanks to outstanding initial support from the amazing friends at [Raspberry Pi Foundation](https://raspberrypi.org/) and the incredibe team at [RAD5 Tech Hub](https://rad5.com.ng).
 
 **`Looking forward to network, brainstorm and hack with great minds once again. See you around.`**
+
+Let me know what you think in the comments.
