@@ -1,4 +1,4 @@
-# home.davidconoh.me
+# davidconoh.me
 
 Website for —
 
