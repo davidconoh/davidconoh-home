@@ -1,0 +1,103 @@
+# Site settings
+baseURL = "/"
+languageCode = "en-US"
+title = "Cyromaven - Developer, Educator, Gamer"
+theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
+# Local preview mode
+relativeURLs = true
+uglyURLs = true
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Copyright
+copyright = "&copy;2022 Chika Onoh"
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Cyromaven"
+  description = "Born David Chika Onoh — Avid technology enthusiast — here — with a knack for building, managing, and deploying world-class services and digital adventures at scale across multiple cloud-native environments. 🎉"
+  shareImage = "https://res.cloudinary.com/davidconoh/image/upload/v1668982243/davidconoh_blog_renders/davidconoh_me_social.png"
+  twitterHandle = "davidconoh"
+
+  # Favicon
+  favicon = "https://res.cloudinary.com/davidconoh/image/upload/v1661407545/davidconoh_blog_renders/favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "https://res.cloudinary.com/davidconoh/image/upload/v1668970132/davidconoh_blog_renders/background_me.jpg"
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      file = ""
+      # youtubeId = "TZCtpBPZbhU"
+
+  # Links
+  #
+  # Links List #1
+  [[params.links]]
+    [params.links.list1]
+      heading = "Connect"
+
+      [[params.links.list1.link]]
+        text = "Blog"
+        url = "https://reads.davidconoh.me"
+        new_tab = true # new tab
+
+      [[params.links.list1.link]]
+        text = "Email"
+        url = "mailto:davidconoh@live.com"
+        new_tab = false # Default, open at same tab
+
+      [[params.links.list1.link]]
+        text = "Open Source"
+        url = "https://opensource.davidconoh.me"
+
+  # Links List #2
+  [[params.links]]
+    [params.links.list2]
+      heading = "Social"
+
+      [[params.links.list2.link]]
+        text = "Twitter"
+        url = "https://twitter.com/davidconoh"
+
+      [[params.links.list2.link]]
+        text = "LinkedIn"
+        url = "https://linkedin.com/in/davidconoh"
+
+      [[params.links.list2.link]]
+        text = "Reddit"
+        url = "https://reddit.com/u/davidconoh"
+
+  # Links List #3
+  [[params.links]]
+    [params.links.list3]
+      heading = "Network"
+
+      [[params.links.list3.link]]
+        text = "GitHub"
+        url = "https://github.com/davidconoh"
+
+      [[params.links.list3.link]]
+        text = "GitLab"
+        url = "https://gitlab.com/davidconoh"
+
+      [[params.links.list3.link]]
+        text = "YouTube"
+        url = "https://www.youtube.com/channel/UCUFRFDbK-tdxUmsWf3YZNZA"
+
+  # The original template is released under the Creative Commons Attribution 3.0 License.
+  # Please keep the original attribution link when using for your own project.
+  # If you'd like to use the template without the attribution, you can check out
+  # the license option via the template author's website: https://onepagelove.com/split

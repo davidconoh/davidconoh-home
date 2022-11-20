@@ -1,6 +1,6 @@
-# davidconoh.me
+# home.davidconoh.me
 
-Website for —
+Website by —
 
 Cyromaven
 
