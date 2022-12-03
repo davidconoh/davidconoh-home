@@ -52,12 +52,12 @@ copyright = "&copy;2022 Chika Onoh"
       [[params.links.list1.link]]
         text = "Blog"
         url = "https://reads.davidconoh.me"
-        new_tab = true # new tab
+        new_tab = true # Default, open at new tab
 
       [[params.links.list1.link]]
-        text = "Email"
-        url = "mailto:davidconoh@live.com"
-        new_tab = false # Default, open at same tab
+        text = "Newsletter"
+        url = "http://digests.davidconoh.me"
+        new_tab = true # new tab
 
       [[params.links.list1.link]]
         text = "Open Source"
