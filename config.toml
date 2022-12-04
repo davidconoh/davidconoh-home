@@ -56,7 +56,7 @@ copyright = "&copy;2022 Chika Onoh"
 
       [[params.links.list1.link]]
         text = "Newsletter"
-        url = "http://digests.davidconoh.me"
+        url = "http://revue.davidconoh.me"
         new_tab = true # new tab
 
       [[params.links.list1.link]]
