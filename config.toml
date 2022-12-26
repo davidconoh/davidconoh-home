@@ -51,17 +51,17 @@ copyright = "&copy;2022 Chika Onoh"
 
       [[params.links.list1.link]]
         text = "Blog"
-        url = "https://reads.davidconoh.me"
+        url = "https://reads.davidconoh.me/"
         new_tab = true # Default, open at new tab
 
       [[params.links.list1.link]]
         text = "Newsletter"
-        url = "http://revue.davidconoh.me"
+        url = "https://reads.davidconoh.me/newsletter"
         new_tab = true # new tab
 
       [[params.links.list1.link]]
         text = "Open Source"
-        url = "https://opensource.davidconoh.me"
+        url = "https://opensource.davidconoh.me/"
 
   # Links List #2
   [[params.links]]
@@ -69,16 +69,16 @@ copyright = "&copy;2022 Chika Onoh"
       heading = "Social"
 
       [[params.links.list2.link]]
-        text = "Twitter"
-        url = "https://twitter.com/davidconoh"
+        text = "LinkedIn"
+        url = "https://linkedin.com/in/davidconoh/"
 
       [[params.links.list2.link]]
-        text = "LinkedIn"
-        url = "https://linkedin.com/in/davidconoh"
+        text = "Instagram"
+        url = "https://instagram.com/cyromaventools/"
 
       [[params.links.list2.link]]
         text = "Reddit"
-        url = "https://reddit.com/u/davidconoh"
+        url = "https://reddit.com/u/davidconoh/"
 
   # Links List #3
   [[params.links]]
