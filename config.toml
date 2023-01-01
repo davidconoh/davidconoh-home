@@ -90,8 +90,8 @@ copyright = "&copy;2022 Chika Onoh"
         url = "https://github.com/davidconoh"
 
       [[params.links.list3.link]]
-        text = "GitLab"
-        url = "https://gitlab.com/davidconoh"
+        text = "Speaker Deck"
+        url = "https://speakerdeck.com/davidconoh"
 
       [[params.links.list3.link]]
         text = "YouTube"
